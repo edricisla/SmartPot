@@ -1,0 +1,50 @@
+0
+Soil Moisture Level: LOW
+0
+Soil Moisture Level: LOW
+0
+Soil Moisture Level: LOW
+0
+Soil Moisture Level: LOW
+0
+Soil Moisture Level: LOW
+0
+Soil Moisture Level: LOW
+489
+Soil Moisture Level: GOOD
+484
+Soil Moisture Level: GOOD
+481
+Soil Moisture Level: GOOD
+477
+Soil Moisture Level: GOOD
+158
+Soil Moisture Level: LOW
+151
+Soil Moisture Level: LOW
+32
+Soil Moisture Level: LOW
+0
+Soil Moisture Level: LOW
+0
+Soil Moisture Level: LOW
+0
+Soil Moisture Level: LOW
+0
+Soil Moisture Level: LOW
+0
+Soil Moisture Level: LOW
+0
+Soil Moisture Level: LOW
+0
+Soil Moisture Level: LOW
+0
+Soil Moisture Level: LOW
+0
+Soil Moisture Level: LOW
+0
+Soil Moisture Level: LOW
+0
+Soil Moisture Level: LOW
+0
+Soil Moisture Level: LOW
